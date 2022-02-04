@@ -51,6 +51,7 @@
 
 	<scm>
 	  <developerConnection>scm:git:https://github.com/doraemonpup/springframework-pet-clinic.git</developerConnection>
+	  <tag>HEAD</tag>
 	</scm>
 
 </project>
