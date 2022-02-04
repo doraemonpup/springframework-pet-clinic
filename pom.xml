@@ -9,7 +9,7 @@
 
 	<groupId>net.puppu</groupId>
 	<artifactId>springframework-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Spring Pet Clinic</name>
 	<description>Project for learning Spring framework</description>
 
@@ -52,9 +52,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
-
-  <scm>
-    <tag>0.0.1</tag>
-  </scm>
 </project>
