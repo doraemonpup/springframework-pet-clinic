@@ -9,7 +9,7 @@
 
 	<groupId>net.puppu</groupId>
 	<artifactId>springframework-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Spring Pet Clinic</name>
 	<description>Project for learning Spring framework</description>
 
@@ -51,7 +51,7 @@
 
 	<scm>
 	  <developerConnection>scm:git:https://github.com/doraemonpup/springframework-pet-clinic.git</developerConnection>
-	  <tag>springframework-pet-clinic-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
